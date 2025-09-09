@@ -1,13 +1,15 @@
 {
-    "id": 57436521,
-    "name": "SAMPLELEVEL2",
-    "author": "Solo_Creator",
-    "creators": [],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 61,
+    "name": "Time Lapse",
+    "author": "Vinz",
+    "creators": "Vinz",
+    "verifier": "Vinz",
+    "verification": "https://www.youtube.com/watch?v=unz70T7a04s",
     "percentToQualify": "100",
-    "password": "Free To Copy",
-    "handcam": "Required",
-    "records": [
-    ]
+    "password": "Not copyable",
+    "handcam": "Not Required",
+    "records": ["user": "Dwornik",
+            "link": "https://www.youtube.com/watch?v=8YEQZB1teoo"
+            "percent": 100,
+            "hz": 240]
 }
