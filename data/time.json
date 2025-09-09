@@ -8,8 +8,11 @@
     "percentToQualify": "100",
     "password": "Not copyable",
     "handcam": "Not Required",
-    "records": ["user": "Dwornik",
-            "link": "https://www.youtube.com/watch?v=8YEQZB1teoo"
+    "records": [
+        {
+            "user": "Dwornik",
+            "link": "https://www.youtube.com/watch?v=8YEQZB1teoo",
             "percent": 100,
-            "hz": 240]
+            "hz": 240
+        }
 }
