@@ -1,13 +1,12 @@
 {
-    "id": 57436521,
-    "name": "SAMPLELEVEL2",
-    "author": "Solo_Creator",
-    "creators": [],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 18,
+    "name": "Deimos",
+    "author": "Krmal",
+    "creators": "Krmal",
+    "verifier": "Krmal",
+    "verification": "https://youtu.be/1jd1Vt9sWMc",
     "percentToQualify": "100",
-    "password": "Free To Copy",
-    "handcam": "Required",
-    "records": [
-    ]
+    "password": "Not Copyable",
+    "handcam": "Not Required",
+    "records": []
 }
