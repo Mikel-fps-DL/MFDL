@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/1jd1Vt9sWMc",
     "percentToQualify": "100",
     "password": "Not copyable",
-    "records": []
+    "records": [
+        {
+            "user": "Dwornik",
+            "link": "https://youtu.be/TTJFtCFFe64",
+            "percent": 100,
+            "hz": 240
+        }
 }
