@@ -1,0 +1,13 @@
+{
+    "id": 69,
+    "name": "K O N T U Z J A",
+    "author": "Dwornik",
+    "creators": "Dwornik",
+    "verifier": "Dwornik",
+    "verification": "https://youtu.be/uQn5Fgz4nB4",
+    "percentToQualify": "100",
+    "password": "Not Copyable",
+    "handcam": "Not Required",
+    "records": [
+    ]
+}
