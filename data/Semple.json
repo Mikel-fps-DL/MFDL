@@ -1,13 +1,13 @@
 {
-    "id": 57436521,
-    "name": "SAMPLELEVEL2",
-    "author": "Solo_Creator",
-    "creators": [],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 73,
+    "name": "Wiesia ol ol",
+    "author": "Dwornik",
+    "creators": [Dwornik],
+    "verifier": "Dwornik",
+    "verification": "https://youtu.be/i9EQQSq9Yrk",
     "percentToQualify": "100",
-    "password": "Free To Copy",
-    "handcam": "Required",
+    "password": "Not Copyable",
+    "handcam": "Not Required",
     "records": [
     ]
 }
