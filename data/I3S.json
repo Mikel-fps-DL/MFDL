@@ -1,13 +1,13 @@
 {
-    "id": 57436521,
-    "name": "SAMPLELEVEL2",
-    "author": "Solo_Creator",
-    "creators": [],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 87,
+    "name": "I3S",
+    "author": "Dwornik",
+    "creators": [Dwornik,Adamix],
+    "verifier": "Adamix",
+    "verification": "https://youtu.be/-4RIhQ2OqSM?si=UtFFcrjT3h0w0HjR",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "handcam": "Required",
+    "handcam": "Not Required",
     "records": [
     ]
 }
