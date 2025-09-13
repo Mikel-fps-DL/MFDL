@@ -2,7 +2,7 @@
     "id": 73,
     "name": "Wiesia ol ol",
     "author": "Dwornik",
-    "creators": "Dwornik",
+    "creators": ["Dwornik"],
     "verifier": "Dwornik",
     "verification": "https://youtu.be/i9EQQSq9Yrk",
     "percentToQualify": "100",
