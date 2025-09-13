@@ -9,8 +9,15 @@
     "password": "Not Copyable",
     "handcam": "Not Required",
     "records": [
+        {
+            "user": "Adamix",
+            "link": "https://youtu.be/2pVxvVtjEWs?si=OF3lcC2URLvXvpOO",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
+
 
 
 
