@@ -2,7 +2,7 @@
     "id": 87,
     "name": "I3S",
     "author": "Dwornik",
-    "creators": [Dwornik,Adamix],
+    "creators": "Dwornik,Adamix",
     "verifier": "Adamix",
     "verification": "https://youtu.be/-4RIhQ2OqSM?si=UtFFcrjT3h0w0HjR",
     "percentToQualify": "100",
