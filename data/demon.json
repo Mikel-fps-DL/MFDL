@@ -2,7 +2,7 @@
     "id": 79,
     "name": "This is not a demon",
     "author": "Rumunskii",
-    "creators": "Rumunskii",
+    "creators": ["Rumunskii"],
     "verifier": "Adamix",
     "verification": "https://youtu.be/ZUPJLe806qs?si=pOCAR79DI1Z6fYZS",
     "percentToQualify": "100",
