@@ -2,7 +2,7 @@
     "id": 100,
     "name": "Hubert Circles",
     "author": "MsVex",
-    "creators": "MsVex",
+    "creators": ["MsVex"],
     "verifier": "yomenikk",
     "verification": "https://medal.tv/pl/games/requested/clips/jqH6FzreXp4HsZ8az",
     "percentToQualify": "100",
