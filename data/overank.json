@@ -2,7 +2,7 @@
     "id": 92,
     "name": "The upbeat",
     "author": "NapoleonLZ",
-    "creators": "NapoleonLZ",
+    "creators": ["NapoleonLZ"],
     "verifier": "NapoleonLZ",
     "verification": "https://youtu.be/0lVnmHhqAHw?si=DWe8_OmmwLPucHMn",
     "percentToQualify": "100",
