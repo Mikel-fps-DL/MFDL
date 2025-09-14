@@ -1,13 +1,13 @@
 {
-    "id": 57436521
-    "name": "The uppbeat",
-    "author": "Solo_Creator",
-    "creators": [],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 92
+    "name": "The upbeat",
+    "author": "NapoleonLZ",
+    "creators": "NapoleonLZ",
+    "verifier": "NapoleonLZ",
+    "verification": "https://youtu.be/0lVnmHhqAHw?si=DWe8_OmmwLPucHMn",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "handcam": "Required",
+    "handcam": "Not Required",
     "records": [
     ]
 }
