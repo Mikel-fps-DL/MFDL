@@ -9,5 +9,11 @@
     "password": "Not Copyable",
     "handcam": "Not Required",
     "records": [
+        {
+            "user": "borjax",
+            "link": "https://youtu.be/5mpScyuzwic",
+            "percent": 100,
+            "hz": 240
+        },
     ]
 }
